@@ -36,5 +36,11 @@ namespace Plantophile.Controllers
             return this.Forbid("Invalid username/password submitted");
 
         }
+
+        [HttpGet]
+        public IActionResult Default()
+        {
+            return this.Ok("found me!");
+        }
     }
 }
