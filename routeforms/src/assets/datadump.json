@@ -1,0 +1,268 @@
+{
+    "desserts" : [
+        {
+            "id": "applePie",
+            "name": "Apple Pie",
+            "origin": "Europe",
+            "categoryId": "pie",
+            "description": "An apple pie is a pie in which the principal filling ingredient is apple, originated in England. It is often served with whipped cream, ice cream, or cheddar cheese."
+        },
+        {
+            "id": "pecanPie",
+            "name": "Pecan Pie",
+            "origin": "Southern, United States",
+            "categoryId": "pie",
+            "description": "Pecans, corn syrup (or brown sugar, or both); considered a southern dish, but you’ll find it anywhere you find pies; especially popular as a dessert during Thanksgiving or Christmas; the pumpkin pie is its heated rival."
+        },
+        {
+            "id": "custardPie",
+            "name": "Custard Pie",
+            "origin": "North America",
+            "categoryId": "pie",
+            "description": "A custard pie is any type of uncooked custard mixture added to an uncooked or partially cooked crust and baked together."
+        },
+        {
+            "id": "keyLimePie",
+            "name": "Key Lime Pie",
+            "origin": "United States",
+            "categoryId": "pie",
+            "description": "Lime juice (specifically one from a Key lime), meringue topping, and graham-cracker crust; naturally, the pie is heavily associate with the Florida Keys, and Key West holds a festival for the pie every 4th of July Weekend."
+        },
+        {
+            "id": "cheescake",
+            "name": "Cheesecake",
+            "origin": "Ancient Greece",
+            "categoryId": "pie",
+            "description": " First off—yes, this is a pie, since it uses a graham-cracker crust that’s synonymous with pies. The other main ingredient is cream cheese or ricotta, which can be combined with myriad other flavors"
+        },
+        {
+            "id":"muffin",
+            "name": "Muffin",
+            "origin": "",
+            "categoryId": "pastry",
+            "description": "A muffin is an individual-sized, baked product. It can refer to two distinct items, a part-raised flatbread that is baked and then cooked on a griddle and a cupcake-like quickbread that is chemically leavened and then baked in a mold."
+        },
+        {
+            "id":"danish",
+            "name": "Strawberry Danish",
+            "origin": "Denmark",
+            "categoryId": "pastry",
+            "description": "A Danish pastry, sometimes shortened to just Danish, is a multilayered, laminated sweet pastry in the viennoiserie tradition. The concept was brought to Denmark by Austrian bakers, and has since developed into a Danish specialty."
+        },
+        {
+            "id":"bananaBread",
+            "name": "Banana Bread",
+            "origin": "United States",
+            "categoryId": "pastry",
+            "description": "Banana bread is a type of bread made from mashed bananas. It is often a moist, sweet, cake-like quick bread; however there are some banana bread recipes that are traditional-style raised breads."
+        },
+        {
+            "id":"beignet",
+            "name": "Beignet",
+            "origin": "France",
+            "categoryId": "pastry",
+            "description": "Beignet, is a type of fritter, or deep-fried pastry, typically made from pâte à choux, but may also be made from other types of dough, including yeast dough."
+        },
+        {
+            "id":"doughnuts",
+            "name": "Doughnuts",
+            "origin": "",
+            "categoryId": "pastry",
+            "description": "A doughnut or donut is a type of fried dough confection or dessert food. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors."
+        },
+        {
+            "id":"iceCream",
+            "name": "Ice Cream",
+            "origin": "China",
+            "categoryId": "frozen",
+            "description": "Ice-cream is a sweetened frozen food typically eaten as a snack or dessert. It is usually made from dairy products, such as milk and cream, and often combined with fruits or other ingredients and flavors."
+        },
+        {
+            "id":"gelato",
+            "name": "Choco Gelato",
+            "origin": "Italy",
+            "categoryId": "frozen",
+            "description": "Gelato is a frozen dessert popular in Italy. It is generally a mixture of custard, cream, and milk, without eggs. "
+        },
+        {
+            "id":"sherbet",
+            "name": "Strawberry Sherbet",
+            "origin": "Middle East",
+            "categoryId": "frozen",
+            "description": "Sherbet or Sherbert a frozen fruit and dairy product that contains anywhere from 1 percent to 2 percent milkfat from milk or cream."
+        },
+        {
+            "id":"frozenYogurt",
+            "name": "Frozen Yogurt",
+            "origin": "United States",
+            "categoryId": "frozen",
+            "description": "Frozen yogurt is made without any cream. Instead bacteria cultures are added to an ice cream base to emulsify the dairy solution."
+        },
+        {
+            "id":"kulfi",
+            "name": "Kulfi",
+            "origin": "India, Pakistan, Mughal Empire",
+            "categoryId": "frozen",
+            "description": "Kulfi has similarities to ice cream in appearance and taste; however it is denser and creamier.It comes in various flavours."
+        },
+        {
+            "id":"ganache",
+            "name": "Chocolate Ganache",
+            "origin": "France",
+            "categoryId": "confectionary",
+            "description": "Finely chopped chocolate and hot cream are thoroughly blended to make the simplest form of the world-famous sweet creation called ganache."
+        },
+        {
+            "id":"jellyBean",
+            "name": "Jelly Beans",
+            "origin": "United States",
+            "categoryId": "confectionary",
+            "description": "These tiny, bean-shaped sugar candies are an indelible part of the childhood memories of millions of Americans."
+        },
+        {
+            "id":"cajeta",
+            "name": "Cajeta",
+            "origin": "Mexico",
+            "categoryId": "confectionary",
+            "description": "Cajeta is a sweet Mexican confectionery product that is most often made from caramelized goat's milk. "
+        },
+        {
+            "id":"truffles",
+            "name": "Chocolate Truffiles",
+            "origin": "France",
+            "categoryId": "confectionary",
+            "description": "Chocolate truffles are made with ganache that's shaped into a ball, dipped in chocolate, and rolled in cocoa powder."
+        },
+        {
+            "id":"ahlgrensBilar",
+            "name": "Ahlgrens Bilar",
+            "origin": "Sweden",
+            "categoryId": "confectionary",
+            "description": "Ahlgrens is a Swedish confectionery company which is most known by its Ahlgrens bilar (Ahlgren's cars), a fruit-flavored marshmallow that is extremely popular with most Swedes."
+        },
+        {
+            "id":"vlokken",
+            "name": "Vlokken",
+            "origin": "Netherlands",
+            "categoryId": "confectionary",
+            "description": "Vlokken is a popular Dutch confectionery product made from regular, dark, or white chocolate."
+        },
+        {
+            "id":"bajadera",
+            "name": "Bajadera",
+            "origin": "Croatia",
+            "categoryId": "confectionary",
+            "description": "Bajadera is a traditional Croatian nougat praline that's commercially produced by Kraš since 1954."
+        },
+        {
+            "id":"mapleButter",
+            "name": "Maple Butter",
+            "origin": "Canada",
+            "categoryId": "confectionary",
+            "description": "Maple butter is a traditional Canadian confection made from maple syrup that's heated, cooled, and whipped until it develops a smooth consistency."
+        },
+        {
+            "id":"pannaCotta",
+            "name": "Panna Cotta",
+            "origin": "Italy",
+            "categoryId": "gelatin",
+            "description": "Gelatin turns liquids into gels and helps maintain the airy nature of whipped creams, mousses, and foams. Unleash its delightful properties with our collection of gorgeous gelatin desserts."
+        },
+        {
+            "id":"marshmallows",
+            "name": "Marshmallows",
+            "origin": "France",
+            "categoryId": "gelatin",
+            "description": "Kids will love helping you make these fluffy confections, and adding cocoa and two types of chocolate chips just increases the excitement."
+        },
+        {
+            "id":"terrine",
+            "name": "Terrine",
+            "origin": "France",
+            "categoryId": "gelatin",
+            "description": "A terrine is a classic French dish where ingredients are pressed together in a baking dish or sheet."
+        },
+        {
+            "id":"jellyShots",
+            "name": "Jelly Shots",
+            "origin": "",
+            "categoryId": "gelatin",
+            "description": "A gelatin shot is a shooter in which one or more liquors, usually vodka, rum, tequila, or neutral grain spirit, replaces some of the water or fruit juice that is used to congeal the gel."
+        },
+        {
+            "id":"butterCake",
+            "name": "Butter Cakes",
+            "origin": "",
+            "categoryId": "cake",
+            "description": "Any recipe for cake that begins 'cream butter and sugar' is a butter cake. After the creaming, you add eggs to aerate the batter a bit, flour (and sometimes another liquid, like milk) to give it structure and texture, and baking powder or baking soda to ensure that it rises in the oven."
+        },
+        {
+            "id":"poundCake",
+            "name": "Pound Cake",
+            "origin": "Northern Europe",
+            "categoryId": "cake",
+            "description": "It's so called because it can be measured as a matter of proportion: a pound of butter, a pound of sugar, a pound of eggs, and a pound of flour. In some pound cake recipes, you'll see the eggs separated and the egg whites whipped and folded into the batter, to leaven it; in other recipes you'll find leaveners like baking soda and baking powder, bringing it well into the butter-cake fold."
+        },
+        {
+            "id":"spongeCake",
+            "name": "Sponge Cake",
+            "origin": "Italy, Israel",
+            "categoryId": "cake",
+            "description": "Any recipe that contains no baking soda or baking powder but lots of whipped eggs or egg whites? That's a sponge cake and there are several different types of sponge cake. which will be called different things wherever you are."
+        },
+        {
+            "id":"genoise",
+            "name": "Genoise Cake",
+            "origin": "Italy",
+            "categoryId": "cake",
+            "description": "In genoise, whole eggs are beaten with sugar until they're thick and ribbony, and then flour (and sometimes butter) is added and the batter is baked; the result is wonderful baked in a round cake pan and simply frosted, but genoise is also pliable enough to be baked in a jelly-roll pan and rolled up into a roulade."
+        },
+        {
+            "id":"biscuitCake",
+            "name": "Biscuit",
+            "origin": "Ireland, Netherlands, England, Middle East",
+            "categoryId": "cake",
+            "description": "Biscuit (always pronounced the French way as bees-kwee) cakes are another type of sponge cake containing both egg whites and yolks, but, unlike genoise, the whites and yolks are whipped separately and then folded back together."
+        },
+        {
+            "id":"angelFoodCake",
+            "name": "Angel Food Cake",
+            "origin": "United States",
+            "categoryId": "cake",
+            "description": "Angel food cakes are made with egg whites alone and no yolks. The whites are whipped with sugar until very firm before the flour is gently folded in, resulting in a snowy-white, airy, and delicate cake that marries beautifully with fruit."
+        }
+    ],
+    "categories": [
+        {
+            "id": "frozen",
+            "name": "Frozen Desserts",
+            "description": "Ice cream, gelato, sorbet and shaved-ice desserts fit into this category. Ice cream is a cream base that is churned as it is frozen to create a creamy consistency."
+        },
+        {
+            "id": "pie",
+            "name": "Pies",
+            "description": "Pies and cobblers are a crust with a filling. The crust can be either made from either a pastry or crumbs. Pie fillings range from fruits to puddings; cobbler fillings are generally fruit-based."
+        },
+        {
+            "id": "pastry",
+            "name": "Pastries",
+            "description": "Pastries are sweet baked pastry products. Pastries can either take the form of light and flaky bread with an airy texture, such as a croissant or unleavened dough with a high fat content and crispy texture, such as shortbread. "
+        },
+        {
+            "id": "confectionary",
+            "name": "Confectionaries",
+            "description": "Confection, also called candy, sweets or lollies, features sugar or honey as a principal ingredient. Many involve sugar heated into crystals with subtle differences. Dairy and sugar based include caramel, fudge and toffee or taffy."
+        },
+        {
+            "id": "gelatin",
+            "name": "Gelatinous Desserts",
+            "description": "Jellied desserts are made with a sweetened liquid thickened with gelatin or another thickening agent. They are traditional in many cultures."
+        },
+        {
+            "id": "cake",
+            "name": "Cakes",
+            "description": "Cakes are sweet tender breads made with sugar and delicate flour. Cakes can vary from light, airy sponge cakes to dense cakes with less flour."
+        }
+    ]
+}
+
